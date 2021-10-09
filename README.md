@@ -1,3 +1,3 @@
 # Demo
 
-I am inside th readme file!
+I am inside the readme file!
